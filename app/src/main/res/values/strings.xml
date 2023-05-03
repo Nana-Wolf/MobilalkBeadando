@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">BATHE</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login_as_guest">Bejelentkezés vendégként</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="email">Email-cím</string>
+    <string name="passwordagain">Jelszó újra</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="customer">Vásárló</string>
+    <string name="seller">Eladó</string>
+    <string name="back">Mégse</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="item_info_placeholder">Inormációk</string>
+    <string name="kosarba">Kosárba</string>
+    <string name="place_order">Rendelés leadás</string>
+    <string name="address">Postai cím</string>
+    <string name="yes">Igen</string>
+    <string name="nope">Nem</string>
+    <string name="cancel">Vissza</string>
+    <string name="detail_text">Leírás</string>
+    <string name="info">Információ</string>
+    <string name="to_cart">Kosárba</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="cart">Kosár</string>
+
+    <string-array name="shopping_item_names">
+        <item>Fekete egyrészes</item>
+        <item>Sárga egyrészes</item>
+        <item>Piros egyrészes</item>
+        <item>Pink bikini</item>
+        <item>Fekete bikini</item>
+        <item>Zöld bikini</item>
+        <item>Fekete egyrészes</item>
+        <item>Rózsaszín egyrészes</item>
+        <item>Sárga egyrészes</item>
+        <item>Zöld bikini</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Fekete alakkiemelő egyrészes</item>
+        <item>Ruha a meleg napokra</item>
+        <item>Ruha a vizes napokra</item>
+        <item>Ebben jó selfieket fogsz lőni</item>
+        <item>Csodaruha egy csodalánynak</item>
+        <item>Lábkiemelő alakformáló</item>
+        <item>Ébenfekete fürdőruha</item>
+        <item>Lányos, csajos ruci</item>
+        <item>Alakkiemelő tulajdonságú</item>
+        <item>Falevélzöld szépség</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>3.5</item>
+        <item>5</item>
+        <item>4</item>
+        <item>1.5</item>
+        <item>5</item>
+        <item>3</item>
+        <item>4.5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>2.5</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/black</item>
+        <item>@drawable/yellow</item>
+        <item>@drawable/red1</item>
+        <item>@drawable/pink1</item>
+        <item>@drawable/black2</item>
+        <item>@drawable/green2</item>
+        <item>@drawable/black3</item>
+        <item>@drawable/pink2</item>
+        <item>@drawable/yellow</item>
+        <item>@drawable/green1</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>99 Dv</item>
+        <item>159 Dv</item>
+        <item>999 Dv</item>
+        <item>599 Dv</item>
+        <item>189 Dv</item>
+        <item>989 Dv</item>
+        <item>90 Dv</item>
+        <item>990 Dv</item>
+        <item>699 Dv</item>
+        <item>99 Dv</item>
+    </array>
+
+</resources>
